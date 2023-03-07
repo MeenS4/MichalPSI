@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+}
+
+.stopka {
+  align-items: center;
+  width: 1920px;
+  justify-content: center;
+  background-color: orangered;
+  display: flex;
+  float: left;
+  height: 400px;
+}
+
+.box {
+  width: 1920px;
+  background-color: brown;
+  height: 1080px;
+}
+
+.lewa-strona{
+  width: 960px;
+  justify-content: center;
+  height: 380px;
+  display: flex;
+  float: left;
+  align-items: center;
+  background-color: orange;
+}
+
+.naglowek {
+  height: 300px;
+  width: 1920px;
+  background-color: darkkhaki;
+  display: flex;
+  float: left;
+  justify-content: center;
+  align-items: center;
+}
+
+.prawa-strona {
+  height: 380px;
+  width: 960px;
+  align-items: center;
+  background-color: goldenrod;
+  display: flex;
+  float: left;
+  justify-content: center;
+}
